@@ -8,9 +8,15 @@ macOS 菜单栏剪贴板历史。复制过的文字、图片、链接和文件�
 
 ## 安装
 
-到 [Releases](https://github.com/xiaoxiamiya/paster-pkg/releases) 下载安装包。当前版本是 **1.4**：
+到 Releases 下载安装包。仓库同时发布在 GitHub 和 Gitee，两个站点各有自己的地址，请按你正在看的站点选用。
 
-[Paster-1.4.pkg](https://github.com/xiaoxiamiya/paster-pkg/releases/download/v1.4/Paster-1.4.pkg)
+- GitHub：[Releases](https://github.com/xiaoxiamiya/paster-pkg/releases)
+- Gitee：[Releases](https://gitee.com/gao-haoliang/paster-pkg/releases)
+
+当前版本是 **1.4**：
+
+- GitHub：[Paster-1.4.pkg](https://github.com/xiaoxiamiya/paster-pkg/releases/download/v1.4/Paster-1.4.pkg)
+- Gitee：[Paster-1.4.pkg](https://gitee.com/gao-haoliang/paster-pkg/releases/download/v1.4/Paster-1.4.pkg)
 
 下载后双击，按向导安装。装完后从「应用程序」打开。Paster 不出现在程序坞，看屏幕顶部菜单栏里的剪贴板图标。
 
@@ -20,7 +26,7 @@ macOS 菜单栏剪贴板历史。复制过的文字、图片、链接和文件�
 
 ## 版本
 
-每个版本的安装包在 [Releases](https://github.com/xiaoxiamiya/paster-pkg/releases)，对应的更新说明在 [更新记录](CHANGELOG.md)。
+每个版本的安装包在上面的 Releases，GitHub 和 Gitee 各有一份。对应的更新说明在 [更新记录](CHANGELOG.md)。
 
 ## 许可证
 

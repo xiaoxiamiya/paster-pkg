@@ -2,7 +2,10 @@
 
 ## [1.4] - 2026-11-05
 
-首次公开发布。安装包：[Paster-1.4.pkg](https://github.com/xiaoxiamiya/paster-pkg/releases/download/v1.4/Paster-1.4.pkg)
+首次公开发布。安装包按站点分别下载：
+
+- GitHub：[Paster-1.4.pkg](https://github.com/xiaoxiamiya/paster-pkg/releases/download/v1.4/Paster-1.4.pkg)
+- Gitee：[Paster-1.4.pkg](https://gitee.com/gao-haoliang/paster-pkg/releases/download/v1.4/Paster-1.4.pkg)
 
 ### 新增
 
