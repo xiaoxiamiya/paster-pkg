@@ -20,3 +20,11 @@
 - 需要 macOS 14 或更高版本，Apple Silicon（arm64）。
 - 没有账号，剪贴板内容不上传。翻译使用系统翻译，只在本机处理。
 
+## [1.4.1] - 2026-11-11
+
+### 修复已知bug
+- 修复搜索后鼠标点击记录卡片导致主线程死锁问题
+
+### 发布包
+- GitHub：[Paster-1.4.1.pkg](https://github.com/xiaoxiamiya/paster-pkg/releases/download/v1.4.1/Paster-1.4.1.pkg)
+- Gitee：[Paster-1.4.1.pkg](https://gitee.com/gao-haoliang/paster-pkg/releases/download/v1.4.1/Paster-1.4.1.pkg)
